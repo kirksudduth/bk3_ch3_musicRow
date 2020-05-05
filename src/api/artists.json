@@ -1,0 +1,52 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Bruce Atikins",
+      "genre": "country",
+      "age": 23
+    },
+    {
+      "id": 2,
+      "name": "Jensen Brown",
+      "genre": "pop",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "Dre Funkz",
+      "genre": "funk",
+      "age": 25
+    },
+    {
+      "id": 4,
+      "name": "Dusta Grimes",
+      "genre": "rap",
+      "age": 21
+    },
+    {
+      "id": 5,
+      "name": "Bartholomew Danielson",
+      "genre": "bluegrass",
+      "age": 23
+    },
+    {
+      "id": 6,
+      "name": "Avilee Dallas",
+      "genre": "country",
+      "age": 19
+    },
+    {
+      "id": 7,
+      "name": "Austin Kinkaid",
+      "genre": "pop",
+      "age": 22
+    },
+    {
+      "id": 8,
+      "name": "Loyoncé Branis",
+      "genre": "rap",
+      "age": 27
+    }
+  ]
+}
